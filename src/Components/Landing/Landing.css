@@ -11,5 +11,12 @@
 
 .uni:hover{
     color: white;
-    background-color: black
+    background-image: linear-gradient(left, rgb(135, 98, 111), rgb(165, 128, 141));
+    transition-duration: .7s;
+    box-shadow: 2px 2px 100px 2px;
+    border-radius: 20%;
+}
+
+a:hover{
+    color: white;
 }

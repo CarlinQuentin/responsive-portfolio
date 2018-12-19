@@ -32,17 +32,17 @@ handleMouseHover() {
             <div>
                 
                 <div className='allofem'>
-                    <a className='linkss' target='blank' href='https://codepen.io/QuentinCarlin/pen/aaNgEL'><img src={img1}/></a>
+                    <a className='links' target='blank' href='https://codepen.io/QuentinCarlin/pen/aaNgEL'><img className='imgs' src={img1}/></a>
 
-                    <a className='linkss' target='blank' href='https://carlinquentin.github.io/firstWebsite/'><img src={img2}/></a>
+                    <a className='links' target='blank' href='https://carlinquentin.github.io/firstWebsite/'><img className='imgs' src={img2}/></a>
 
-                    <a className='linkss' target='blank' href='https://carlinquentin.github.io/CarlinQuentin.github.io-api/'><img src={img3}/></a>
+                    <a className='links' target='blank' href='https://carlinquentin.github.io/CarlinQuentin.github.io-api/'><img className='imgs' src={img3}/></a>
 
-                    <a className='linkss' target='blank' href='https://storylog1-client.herokuapp.com/'><img src={img4}/></a>  
+                    <a className='links' target='blank' href='https://storylog1-client.herokuapp.com/'><img className='imgs' src={img4}/></a>  
   
-                    <a className='linkss' target='blank' href='https://food-finder123.herokuapp.com/'><img src={img5}/></a>  
+                    <a className='links' target='blank' href='https://food-finder123.herokuapp.com/'><img className='imgs' src={img5}/></a>  
  
-                    <a className='linkss' target='blank' href='https://nightbuzz-plzzz-wurk.herokuapp.com/about'><img src={img6}/></a> 
+                    <a className='links' target='blank' href='https://nightbuzz-plzzz-wurk.herokuapp.com/about'><img className='imgs' src={img6}/></a> 
                 {/* <div className='allofem'>
                         <div className='grid-item'><a className='links' target='blank' href='https://codepen.io/QuentinCarlin/pen/aaNgEL'> CSS Creature<img src={img1}/></a>   Built after 1 day of coding <br/> Time to build: 1 day </div>
                         <div className='grid-item'><a className='links' target='blank' href='https://carlinquentin.github.io/firstWebsite/'> Static Store Front<img src={img2}/></a>  Built after 5 days of coding <br/> Time to build: 3 days </div>

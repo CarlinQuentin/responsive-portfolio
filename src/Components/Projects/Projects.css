@@ -1,9 +1,10 @@
-img {
+.imgs {
     width: 15em;
     height: 27.8vh;
     border: 3px solid rgb(146, 63, 30);
     margin: 5%;;
-    box-shadow: 5px 5px 100px 5px rgb(135, 98, 111);
+    box-shadow: 5px 5px 200px 5px rgb(135, 98, 111);
+    border-radius: 4em;
 }
 
 .allofem{
@@ -13,4 +14,8 @@ img {
 
 a:hover{
   color: white;
+}
+
+.imgs:hover{
+  box-shadow: 5px 5px 200px 5px white;
 }
