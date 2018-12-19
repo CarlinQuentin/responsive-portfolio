@@ -1,0 +1,50 @@
+.thisstuff{
+    padding-top: 20vh;
+    display: inline-block;
+    color: white;
+}
+
+.contact{
+    width: 50vw;
+    text-align: center;
+    box-shadow: 10px 10px 100px 10px black;
+    
+}
+
+.control-group{
+    display: inline;
+    padding-left: 5%;
+    padding-top: 5%; 
+}
+
+.messages{
+    width: 90%; 
+
+}
+
+.thisthing{
+    padding-top: 5%;
+    color: white;
+}
+
+.another{
+    display: inline;
+}
+
+.cont{
+    margin-top: 20vh;
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Courgette', cursive;
+}
+
+.icons{
+    display: inline;
+    box-shadow: 10px 10px 50px 10px black;
+    font-size: 30px;
+}
+
+.link{
+    margin: 3%;
+}
